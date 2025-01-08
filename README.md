@@ -137,7 +137,7 @@ Tüm işlemler ve hatalar `log.csv` dosyasına kaydedilir. Örnek log formatı:
 ---
 ### Video
 
-
+https://youtu.be/hCAOtC30zhI?si=-gb0lVu8ZDy9YzFB
 
 ## Katkıda Bulunun
 
