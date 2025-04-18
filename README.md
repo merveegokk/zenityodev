@@ -1,4 +1,4 @@
-# zenityodev
+# zenity_proje
 # Kullanıcı ve Ürün Yönetim Sistemi
 
 Bu proje, Bash ve Zenity kullanarak kullanıcı ve ürün yönetimi yapan bir komut dosyasıdır. Kullanıcılar için güvenlik özellikleri ve etkileşimli bir grafik arayüz sunar.
